@@ -1,5 +1,5 @@
 # GeneAnalysis
-This project analysing different aspect of the given gene presented in the program.
+This project analyses different aspect of the gene presented in the program.
 The project :
 calculates the ATGC percentage, 
 counts the dinucleotides,
